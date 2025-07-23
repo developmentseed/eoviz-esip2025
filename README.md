@@ -5,7 +5,7 @@ Next.js instance that uses the [VEDA-UI components library](https://github.com/n
 ## Getting Started
 
 To set up and run this project locally, refer to the [Development guide](./docs/DEVELOPMENT.md).
-SEAN TEST CHANGE
+SEAN TEST CHANGE asdfas
 ## Documentation
 
 Documentation for this project can be found in the [`docs`](./docs) directory. Below is a quick summary of available resources:
