@@ -7,7 +7,7 @@ const workshopSections = [
     title: 'Earth Scientists & Researchers',
     description:
       'Transform your research into compelling stories that reach beyond academic papers. Learn to create interactive narratives that showcase your data discoveries.',
-    icon: '🌍',
+    icon: '🚀',
   },
   {
     title: 'Storytelling Techniques',
